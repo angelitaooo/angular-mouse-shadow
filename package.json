@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:ghpages": "ng build --prod --base-href https://angelitaooo.github.io/angelar-mouse-shadow/",
+    "build:ghpages": "ng build --prod --base-href https://angelitaooo.github.io/angular-mouse-shadow/",
     "deploy": "npm run build:ghpages && angular-cli-ghpages"
   },
   "private": true,
